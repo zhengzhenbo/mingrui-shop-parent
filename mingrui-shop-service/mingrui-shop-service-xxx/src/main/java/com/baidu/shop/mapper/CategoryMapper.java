@@ -8,13 +8,6 @@ import tk.mybatis.mapper.common.example.SelectByExampleMapper;
 
 import java.util.List;
 
-/**
- * @ClassName CategoryMapper
- * @Description: TODO
- * @Author zhengzhenbo
- * @Date 2020/12/22
- * @Version V1.0
- **/
 public interface CategoryMapper extends Mapper<CategoryEntity>, SelectByIdListMapper <CategoryEntity,Integer> {
 
     //接口 + 实现类 + xml

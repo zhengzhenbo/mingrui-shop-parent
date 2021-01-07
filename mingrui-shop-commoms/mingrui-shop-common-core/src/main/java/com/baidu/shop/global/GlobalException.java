@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 /**
  * @ClassName GlobalException
  * @Description: TODO
- * @Author shenyaqi
+ * @Author zhengzhenbo
  * @Date 2020/12/24
  * @Version V1.0
  **/

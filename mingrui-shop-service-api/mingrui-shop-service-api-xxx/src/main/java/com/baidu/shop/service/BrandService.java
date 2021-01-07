@@ -12,13 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName BrandService
- * @Description: TODO
- * @Author shenyaqi
- * @Date 2020/12/25
- * @Version V1.0
- **/
+
 @Api(tags = "品牌接口")
 public interface BrandService {
 

@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName BaseApiService
  * @Description: 接口的实现类继承此类
- * @Author shenyaqi
+ * @Author zhengzhenbo
  * @Date 2020/8/17
  * @Version V1.0
  **/

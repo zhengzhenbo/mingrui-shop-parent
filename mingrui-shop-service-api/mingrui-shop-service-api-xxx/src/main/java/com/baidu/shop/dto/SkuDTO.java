@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * @ClassName SkuDTO
  * @Description: TODO
- * @Author shenyaqi
+ * @Author zhengzhenbo
  * @Date 2021/1/7
  * @Version V1.0
  **/

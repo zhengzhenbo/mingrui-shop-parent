@@ -11,13 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName CategoryService
- * @Description: TODO
- * @Author shenyaqi
- * @Date 2020/12/22
- * @Version V1.0
- **/
+
 @Api(tags = "商品分类接口") // 声明接口
 public interface CategoryService {
 
